@@ -205,6 +205,3 @@ To host it free on GitHub Pages:
 - M. Treiber, A. Hennecke, D. Helbing. *Congested traffic states in empirical observations and microscopic simulations.* Physical Review E 62, 1805 (2000). The Intelligent Driver Model.
 - Y. Sugiyama et al. *Traffic jams without bottlenecks: experimental evidence for the physical mechanism of the formation of a jam.* New Journal of Physics 10, 033001 (2008). The ring-road experiment that showed jams forming with no bottleneck.
 
-## License
-
-MIT. Add a `LICENSE` file with the MIT text and your name before publishing.

@@ -82,7 +82,7 @@ With IDM alone and no disturbance, traffic on the loop stays perfectly smooth. T
 |---|---|
 | **Reaction delay** | Each car keeps a ring buffer of recent observations and reacts to the gap and leader speed from `reaction time` seconds ago. |
 | **Start-up lag** | A stopped car holds position until the car ahead has been moving for `lag` seconds. |
-| **Over-braking** | Braking is scaled up by 30%, and the driver stays off the throttle briefly afterward. Fixed in the code, not exposed as a slider (see [Findings](#findings)). |
+| **Over-braking** | Braking is scaled up by 30%, and the driver stays off the throttle briefly afterward. Fixed in the code, not exposed as a slider  |
 | **Random slowdowns** | At random, a car brakes gently for 0.8 to 2.2 seconds. |
 | **Driver variety** | Each car gets its own multiplier (about 0.75 to 1.25) on reaction time and lag so cars do not behave identically. |
 | **Last-moment reflex** | If the real gap is closing too fast, the car brakes hard using the actual gap, ignoring the delay. This stops cars from passing through each other. |

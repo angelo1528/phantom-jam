@@ -2,13 +2,9 @@
 
 **Why traffic stops for no reason.** An interactive simulation of phantom traffic jams: one driver taps the brakes, everyone behind reacts a moment late, and the delay snowballs into a standing queue where each car waits longer than the one ahead of it.
 
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
-![Dependencies: none](https://img.shields.io/badge/dependencies-none-blue)
-![Single file](https://img.shields.io/badge/build-single%20HTML%20file-lightgrey)
-
-**[Open the live demo](https://YOUR-USERNAME.github.io/phantom-jam/)** (replace `YOUR-USERNAME` after enabling GitHub Pages, see [Deploy](#deploy))
-
-<!-- Add a screenshot or GIF here: docs/demo.gif -->
+<img width="937" height="437" alt="image" src="https://github.com/user-attachments/assets/753cf355-034a-4f04-bf85-5ab157dc30cd" />
+<img width="914" height="298" alt="image" src="https://github.com/user-attachments/assets/d01200a7-b179-4ff6-8f92-3ced0902795a" />
+<img width="416" height="272" alt="image" src="https://github.com/user-attachments/assets/f658e6c3-228e-4da0-ac0e-95341e85e2fa" />
 
 ---
 
